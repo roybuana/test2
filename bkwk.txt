@@ -1,0 +1,10 @@
+bkwk.co.cc
+username buana_roy@yahoo.co.id
+password roy123
+$mysql_host = "mysql15.000webhost.com";
+$mysql_database = "a7487608_wk";
+$mysql_user = "a7487608_wk";
+$mysql_password = "roy123";
+buanaroy@gmail.com
+roy12345
+888888888888
